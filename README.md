@@ -2,9 +2,10 @@
 The project was designed with the Eclipse IDE, utilizing JavaFX to implement the application.
 There were 4 group members involved in the process.
 
-Please check out the [User Manual](https://github.com/spagnuolo-joseph-216279184/JavaFX-Desktop-Application-Group-Project/files/10406078/EECS2311_UserManual_Group2.pdf)
+Please check out the 
+[Requirements Document](https://github.com/spagnuolo-joseph-216279184/JavaFX-Desktop-Application-Group-Project/files/10406127/RequirementsDocument.pdf)
 and the 
-[Requirements Document](https://github.com/spagnuolo-joseph-216279184/JavaFX-Desktop-Application-Group-Project/files/10406114/RequiredDocument_Group2.pdf)
+[User Manual](https://github.com/spagnuolo-joseph-216279184/JavaFX-Desktop-Application-Group-Project/files/10406132/UserManual.pdf)
 for the project.
 
 You can find the full project repository at https://github.com/Carusoni-Marco-216558074/2311Venn.
