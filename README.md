@@ -1,5 +1,5 @@
-# Group Project Design: JavaFX Venn Diagram Builder Desktop Application
-The project was designed with the Eclipse IDE, utilizing JavaFX to implement the application.
+# Group Project Design: Venn Diagram Builder Desktop Application in Java
+The project was designed and implemented using JavaFX.
 There were 4 group members involved in the process.
 
 Please check out the 
